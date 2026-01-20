@@ -1,0 +1,24 @@
+{
+  "name": "nodeexp",
+  "version": "1.0.0",
+  "description": "NodeExp",
+  "homepage": "https://github.com/vijayalakshmip28-creator/NodeExp#readme",
+  "bugs": {
+    "url": "https://github.com/vijayalakshmip28-creator/NodeExp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayalakshmip28-creator/NodeExp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "mongodb": "^7.0.0"
+  }
+}
